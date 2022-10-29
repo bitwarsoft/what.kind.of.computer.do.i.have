@@ -1,6 +1,6 @@
 # What kind of computer do i have ?
 
-[![What kind of computer do i have](pink.png)](https://github.com/bitwarsoft/what.kind.of.computer.do.i.have)
+[![What kind of computer do i have](pink.png)](https://computer-solved.com/what-kind-of-computer-do-i-have/)
 
 There are several reasons why you might need to check your computer model and specs. You might be comparing your old computer to a new one you want to upgrade to. Or, you might be comparing your computer’s specs to a video game’s requirements to see if you can run it. Whatever the reason, it’s relatively easy to find the model number and specs on a computer.
 
